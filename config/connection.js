@@ -1,5 +1,5 @@
 // impoort sequelize constructor from the library
-let Sequelize = require('sequelize');
+const Sequelize = require('sequelize');
 
 require('dotenv').config() // import environment variables to hide username, password, and db name
 
